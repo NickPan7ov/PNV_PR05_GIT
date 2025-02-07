@@ -11,6 +11,7 @@ namespace PR05_GIT_Panfilov
         static void bd()
         {
             double ok;
+
         }
     }
 }
